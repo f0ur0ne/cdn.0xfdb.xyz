@@ -24,7 +24,7 @@ github_username:  f0ur0ne
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-midnight
 plugins:
 
 # Exclude from processing.
