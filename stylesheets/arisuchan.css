@@ -1,0 +1,31 @@
+h1,
+h1 a,
+a:hover,
+#overheader a:hover,
+#overheader a.arisuchan,
+#overheader i,
+#overheader i:hover,
+.name,
+.catlink a:hover {
+    color: #be132d;
+}
+
+.thread > .files {
+     border-left: 0.5rem solid #be132d;
+}
+
+a,
+.capcode,
+.catlink a:hover,
+.quote,
+.thread a:hover {
+    color: #ef6177;
+}
+
+@media only screen and (max-width: 991px) {
+
+    div.op {
+        border-left: 0.5rem solid #be132d;
+    }
+
+}
